@@ -93,6 +93,9 @@ Below is an example of how your dashboard might look after completing the above 
 
 By following these steps, you can create a comprehensive and effective zonal dashboard in Excel that helps you analyze and visualize performance metrics across different zones. Customize the dashboard to fit your specific needs and preferences.
 
-Feel free to reach out if you have any questions or need further assistance.
 
-Happy Dashboarding!
+zonal_dashboard
+
+
+https://github.com/user-attachments/assets/4589970b-3a0d-49fd-b593-2870a1af002b
+
