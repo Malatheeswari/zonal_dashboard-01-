@@ -67,11 +67,13 @@ This guide provides detailed instructions for creating an effective zonal dashbo
 
 Here is an example of how your data might be organized in Excel:
 
-ID	    | Month	| Zone	 |  SL	| Quality	 | Productivity |
-JanEAST	| Jan	  | EAST	 | 70%	|  59%	   |    41%       |
-JanWEST	| Jan	  | WEST	 | 43%	|  58%	   |    78%       |
-JanNORT | Jan	  | NORTH	 | 62%	|  65%	   |    54%       |
-JanSOUTH| Jan	  | SOUTH	 | 79%	|  49%	   |    62%       |
+| Zone  | Sales | Population | Performance |
+|-------|-------|------------|-------------|
+| North | 5000  | 150,000    | 85%         |
+| South | 7000  | 200,000    | 90%         |
+| East  | 6000  | 180,000    | 88%         |
+| West  | 5500  | 170,000    | 87%         |
+
 ## Tips for an Effective Dashboard
 
 - **Simplicity**: Keep your dashboard simple and focused on key metrics.
